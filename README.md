@@ -7,7 +7,6 @@ Contact email: lenka.hasova@bristol.ac.uk
 
 Link to data (within this repository): [Reproducibility survey (Responses).csv](https://github.com/lenkahas/RandR/blob/main/Reproducibility%20survey%20(Responses).csv)
 
-Link to survey: [Link](https://forms.gle/KYTHQFmccKwJqGyZA)
 
 ## About
 

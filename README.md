@@ -149,4 +149,12 @@ Example of some of the comments:
 
 > I have to say it's the first I've come across the terminology. It seems important, even if greased towards more scientific modes of research. I think human geographers could have a fruitful discussion about what it means for them.
 
+# Relevant literature
 
+Kedron, P., Frazier, A.E., Trgovac, A.B., Nelson, T. and Fotheringham, A.S. (2021), **Reproducibility and Replicability in Geographical Analysis**. Geogr. Anal., 53: 135-147. [Availiable here](https://doi.org/10.1111/gean.12221)
+
+Michael F. Goodchild, A. Stewart Fotheringham, Peter Kedron & Wenwen Li (2020), **Forum on Reproducibility and Replicability in Geography**, Annals of the American Association of Geographers, DOI: 10.1080/24694452.2020.1806030, [Availiable here](https://www.tandfonline.com/doi/pdf/10.1080/24694452.2020.1806030)
+
+Gelman, A. and Eric Loken. **“The garden of forking paths : Why multiple comparisons can be a problem , even when there is no “ fishing expedition ” or “ p-hacking ” and the research hypothesis was posited ahead of time ∗.”** (2019). [Availiable here](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
+
+Huntington-Klein, Nick and Arenas, Andreu and Beam, Emily and Bertoni, Marco and Bloem, Jeffrey and Burli, Pralhad H and Chen, Naibin and Grieco, Paul L.E. and Ekpe, Godwin and Pugatch, Todd and Saavedra, Martin Hugo and Stopnitzky, Yaniv, **The Influence of Hidden Researcher Decisions in Applied Microeconomics.** IZA Discussion Paper No. 13233, [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3602409)

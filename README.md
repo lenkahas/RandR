@@ -6,7 +6,7 @@
 
 Contact email: lenka.hasova@bristol.ac.uk
 
-Link to data:
+Link to data (within this repository): https://github.com/lenkahas/RandR/blob/main/Reproducibility%20survey%20(Responses).csv 
 
 Link to survey: [Link](https://forms.gle/KYTHQFmccKwJqGyZA)
 
@@ -18,36 +18,37 @@ This is an informal sheet describing the
 
 We have collected 70 responses within the school of Geographical sciences
 
-![png]('./RandR/reproducibility_7_0.png')
 
-![png]('./RandR/reproducibility_8_0.png')
+![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_7_0.png')
+
+![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_8_0.png')
 
 ## Question 1 
 
-![png]('./RandR/reproducibility_10_0.png')
+![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_10_0.png')
 
 
 |                                              |                                              |
 |----------------------------------------------|----------------------------------------------|
-|  ![png]('./RandR/reproducibility_12_0.png')  |   ![png]('./RandR/reproducibility_13_0.png') |
+|  ![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_12_0.png')  |   ![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_13_0.png') |
 
 
 ## Question 2
 
-![png]('./RandR/reproducibility_15_0.png')
+![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_15_0.png')
 
-![png]('./RandR/reproducibility_17_0.png')
+![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_17_0.png')
 
-![png]('./RandR/reproducibility_18_0.png')
+![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_18_0.png')
 
 
 ## Question 3
 
-![png]('./RandR/reproducibility_28_0.png')
+![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_28_0.png')
 
 
 ## Question 4
 
-![png]('./RandR/reproducibility_35_0.png')
+![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_35_0.png')
 
 

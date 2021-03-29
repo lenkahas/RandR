@@ -18,56 +18,41 @@ This is an informal sheet describing the
 
 We have collected 70 responses within the school of Geographical sciences
 
-<img src="https://github.com/lenkahas/RandR/blob/main/reproducibility_7_0.png" width="250">
 
-<img src="https://github.com/lenkahas/RandR/blob/main/reproducibility_7_0.png" width="300">
+<img src="https://github.com/lenkahas/RandR/blob/main/reproducibility_7_0.png" width="650">
 
-<img src="https://github.com/lenkahas/RandR/blob/main/reproducibility_7_0.png" width="350">
+<img src="https://github.com/lenkahas/RandR/blob/main/reproducibility_8_0.png" width="650">
 
-![png]("https://github.com/lenkahas/RandR/blob/main/reproducibility_7_0.png")
-
-![png]("https://github.com/lenkahas/RandR/blob/main/reproducibility_7_0.png")
-
-![png]("./RandR/blob/main/reproducibility_7_0.png")
-
-![png]("../main/reproducibility_7_0.png")
-
-![png]("reproducibility_7_0.png")
-
-
-
-
-
-
-
-![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_8_0.png')
 
 ## Question 1 
 
-![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_10_0.png')
+<img src="https://github.com/lenkahas/RandR/blob/main/reproducibility_10_0.png" width="650">
 
 
 |                                              |                                              |
 |----------------------------------------------|----------------------------------------------|
-|  ![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_12_0.png')  |   ![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_13_0.png') |
+|  <img src="https://github.com/lenkahas/RandR/blob/main/reproducibility_12_0.png" width="650">  |   <img src="https://github.com/lenkahas/RandR/blob/main/reproducibility_13_0.png" width="650"> |
 
 
 ## Question 2
 
-![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_15_0.png')
+<img src="https://github.com/lenkahas/RandR/blob/main/reproducibility_15_0.png" width="650">
 
-![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_17_0.png')
+<img src="https://github.com/lenkahas/RandR/blob/main/reproducibility_17_0.png" width="650">
 
-![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_18_0.png')
+<img src="https://github.com/lenkahas/RandR/blob/main/reproducibility_18_0.png" width="650">
+
 
 
 ## Question 3
 
-![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_28_0.png')
-
+<img src="https://github.com/lenkahas/RandR/blob/main/reproducibility_28_0.png" width="650">
 
 ## Question 4
 
-![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_35_0.png')
+
+<img src="https://github.com/lenkahas/RandR/blob/main/reproducibility_35_0.png" width="650">
+
+
 
 

@@ -1,8 +1,7 @@
 # Report
 
 ## Reproducibility & Replicability survey 2021
-## School of Geographical sciences 
-## University of Bristol
+School of Geographical sciences, University of Bristol
 
 Contact email: lenka.hasova@bristol.ac.uk
 

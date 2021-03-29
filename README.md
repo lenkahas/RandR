@@ -44,16 +44,27 @@ However, there is a clear distinction between Human geographers, who feel that R
 
 |               Human Geographers              |
 |----------------------------------------------|
-|  <img src="https://github.com/lenkahas/RandR/blob/main/Q1_b.png" width="850">  | 
+|  <img src="https://github.com/lenkahas/RandR/blob/main/Q1_b.png" width="650">  | 
+
+
 |            Physical Geographers              |
 |---|
-|<img src="https://github.com/lenkahas/RandR/blob/main/Q1_c.png" width="850"> |
+|<img src="https://github.com/lenkahas/RandR/blob/main/Q1_c.png" width="650"> |
 
 Here we can clearly see the differences by each Research Group. While Quantitative Spatial Science and Research Initiative for the Dynamic Global Environment provided more stable answer, where all the domains are important for them, the Historical and Cultural Research Group is the most varied in its responses. For them, the R&R is more important for our department than for their own research.
 
-| To Your Own research | To Our Department | To future of Geographical Analysis |
-|---|---|---|
-| <img src="https://github.com/lenkahas/RandR/blob/main/Q1_d.png" width="850">| <img src="https://github.com/lenkahas/RandR/blob/main/Q1_e.png" width="850">| <img src="https://github.com/lenkahas/RandR/blob/main/Q1_f.png" width="850">|
+| To Your Own research | 
+|---|
+| <img src="https://github.com/lenkahas/RandR/blob/main/Q1_d.png" width="650">| 
+
+|To Our Department | 
+|---|
+|<img src="https://github.com/lenkahas/RandR/blob/main/Q1_e.png" width="650">| 
+
+|To future of Geographical Analysis |
+|---|
+|<img src="https://github.com/lenkahas/RandR/blob/main/Q1_f.png" width="650">|
+
 
 
 ## Question 2
@@ -84,9 +95,13 @@ Although there is a big proportion of people who publish their codes, data or pr
 
 This proportion of respondents that don't include the open-source practices in their research is visibly greater in Human Geography. The general open source publishing practices are much more present within the Physical Geographers.
 
-| Human Geographers|Physical Geographers |
-|---|---|
-|<img src="https://github.com/lenkahas/RandR/blob/main/Q3_b.png" width="750">|<img src="https://github.com/lenkahas/RandR/blob/main/Q3_c.png" width="750">|
+| Human Geographers|
+|---|
+|<img src="https://github.com/lenkahas/RandR/blob/main/Q3_b.png" width="650">|
+
+|Physical Geographers |
+|---|
+|<img src="https://github.com/lenkahas/RandR/blob/main/Q3_c.png" width="650">
 
 
 In the category 'Other' can be found those respondents who haven't published anything yet, publish with a different body than stated (government,..), publish on request or those for whom publishing is not relevant
@@ -102,9 +117,13 @@ The respondents identified, in general, lack of skills, tools or knowledge and n
 
 For Human Geographers, however, is also a major problem sensitive data or research. In comparison, Physical Geographers identified 'No time' as a stronger factor than any other.
 
-| Human Geographers|Physical Geographers |
-|---|---|
-|<img src="https://github.com/lenkahas/RandR/blob/main/Q4_b.png" width="750">|<img src="https://github.com/lenkahas/RandR/blob/main/Q4_c.png" width="750">|
+| Human Geographers|
+|---|
+|<img src="https://github.com/lenkahas/RandR/blob/main/Q4_b.png" width="650">|
+
+|Physical Geographers |
+|---|
+|<img src="https://github.com/lenkahas/RandR/blob/main/Q4_c.png" width="650">|
 
 In the category 'Other' can be found those respondents for whom publishing is irrelevant or those who are restricted by copyright or temporal scale of the research.
 

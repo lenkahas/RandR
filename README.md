@@ -18,8 +18,27 @@ This is an informal sheet describing the
 
 We have collected 70 responses within the school of Geographical sciences
 
+<img src="https://github.com/lenkahas/RandR/blob/main/reproducibility_7_0.png" width="250">
 
-![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_7_0.png')
+<img src="https://github.com/lenkahas/RandR/blob/main/reproducibility_7_0.png" width="300">
+
+<img src="https://github.com/lenkahas/RandR/blob/main/reproducibility_7_0.png" width="350">
+
+![png]("https://github.com/lenkahas/RandR/blob/main/reproducibility_7_0.png")
+
+![png]("https://github.com/lenkahas/RandR/blob/main/reproducibility_7_0.png")
+
+![png]("./RandR/blob/main/reproducibility_7_0.png")
+
+![png]("../main/reproducibility_7_0.png")
+
+![png]("reproducibility_7_0.png")
+
+
+
+
+
+
 
 ![png]('https://github.com/lenkahas/RandR/blob/main/reproducibility_8_0.png')
 

@@ -16,6 +16,18 @@ This is an informal sheet describing the responses to R&R survey. The purpose of
 3. Inform on the current state of R&R 
 4. Identify the biggest blocker of R&R within the department
 
+## This Repositiry Contains
+
+1. Report with the results of the survey
+    a. Report.pptx
+    b. Reoprt.pdf
+    c. README.md
+2. Data - all the responses from the survey in csv file
+    a. Reproducibility survey (Responses).csv
+3. Python Notebook with code to create the figures
+    a. reproducibility.ipynb
+4. Each Figure as .png
+
 ## Respondents
 
 <center><b> Tell us which Geography Branch do you identify with. </b></center>
@@ -29,9 +41,7 @@ Almost 25% of respondents do not identify themselves with a particular research 
 <img src="https://github.com/lenkahas/RandR/blob/main/resp_2.png" width="850">
 
 
-## Question 1 
-
-<center><b> According to you, how important is the Reproducibility and Replicability of Geographical research to ... </b></center>
+## Q1 - According to you, how important is the Reproducibility and Replicability of Geographical research to ...
 
 In general, respondents feel that this topic is very important to their research as well as to our department and the future of geographical analysis.
 
@@ -65,9 +75,7 @@ Here we can clearly see the differences by each Research Group. While Quantitati
 
 
 
-## Question 2
-
-<center><b> How much do you consider Reproducibility and Replicability in your own research? </b></center>
+## Q2 - How much do you consider Reproducibility and Replicability in your own research?
 
 Most of the respondents (91%) consider the R&R in their research to some, moderate or great extent, while only 8.5% of respondents is less inclined to R&R in their own research.
 
@@ -83,9 +91,7 @@ This correlates also with the responses grouped by a specific Research group. Th
 
 
 
-## Question 3
-
-<center><b> Do you publish your code/data/reproducible examples of your research? </b></center>
+## Q3 - Do you publish your code/data/reproducible examples of your research?
 
 Although there is a big proportion of people who publish their codes, data or preprints, There are quite a few people (34% of all respondents) who does not include open-source practices in their research.
 
@@ -105,7 +111,7 @@ This proportion of respondents that don't include the open-source practices in t
 In the category 'Other' can be found those respondents who haven't published anything yet, publish with a different body than stated (government,..), publish on request or those for whom publishing is not relevant
 
 
-## Question 4
+## Q4 - Please tell us what restricts you from publishing your code/data/reproducible examples of your research?
 
 <center><b> Please tell us what restricts you from publishing your code/data/reproducible examples of your research? </b></center>
 
